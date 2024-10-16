@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rupesh-baghel
+- 👋 Hi, I’m @Rupesh-Kumar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
